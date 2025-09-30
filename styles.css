@@ -1,0 +1,29 @@
+.wrapper {
+            width: 70%;
+            background-color: #d1bd9e; 
+            
+            
+             margin: 0 auto;
+            
+            
+            
+        }
+
+section {
+        width: 65%;
+        background-color: #fff3e0; 
+        border: 2px solid #ff9800; 
+        margin: 20px auto; 
+            
+        
+        }
+
+.wrapper,
+section {
+    padding: 5px;
+    box-sizing: border-box; 
+}
+      
+.go {
+    text-align: center;
+}
